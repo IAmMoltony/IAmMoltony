@@ -1,16 +1,24 @@
-### Hi there 👋
+I am Moltony, some guy who likes coding lol
 
-<!--
-**IAmMoltony/IAmMoltony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Code::Stats](https://codestats.net/users/amogus) (yes my username there is `amogus`)
 
-Here are some ideas to get you started:
+My fav text editor is Vim, with Sublime Text coming in second.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Languages I know</summary>
+  <ul>
+    <li>C++ (fluent)</li>
+    <li>C (fluent)</li>
+    <li>Java (fluent)</li>
+    <li>C# (fluent)</li>
+    <li>Python (fluent)</li>
+    <li>JavaScript (fluent)</li>
+    <li>TypeScript (fluent)</li>
+    <li>PHP (fluent)</li>
+    <li>Visual Basic (fluent)</li>
+    <li>Rust (beginner level)</li>
+    <li>Go (beginner level)</li>
+  </ul>
+</details>
+
+![GitHub User's stars](https://img.shields.io/github/stars/IAmMoltony)
