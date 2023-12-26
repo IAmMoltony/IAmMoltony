@@ -22,3 +22,5 @@ My fav text editor is Vim, with Sublime Text coming in second.
 </details>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/IAmMoltony)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IAmMoltony)](https://git.io/streak-stats)
