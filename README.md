@@ -1,7 +1,5 @@
 I am Moltony, some guy who likes coding lol
 
-[Code::Stats](https://codestats.net/users/amogus) (yes my username there is `amogus`)
-
 My fav text editor is Vim, with Sublime Text coming in second.
 
 <details>
