@@ -14,8 +14,9 @@ My fav text editor is Vim, with Sublime Text coming in second.
     <li>TypeScript (fluent)</li>
     <li>PHP (fluent)</li>
     <li>Visual Basic (fluent)</li>
+    <li>Julia (fluent)</li>li>
     <li>Rust (beginner level)</li>
-    <li>Go (beginner level)</li>
+    <li>Go (fluent)</li>
   </ul>
 </details>
 
