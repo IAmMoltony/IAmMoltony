@@ -1,6 +1,4 @@
-I am Moltony, some guy who likes coding lol
-
-My fav text editor is Vim, with Sublime Text coming in second.
+Hi so I'm Moltony and I like coding. My favorite languages are C and C++ (I don't prefer one over the other) and my favorite text editor is Vim.
 
 <details>
   <summary>Languages I know</summary>
