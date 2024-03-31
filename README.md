@@ -1,4 +1,4 @@
-Hi so I'm Moltony and I like coding. My favorite languages are C and C++ (I don't prefer one over the other) and my favorite text editor is Vim.
+[iammoltony.github.io](website fr)
 
 <details>
   <summary>Languages I know</summary>
