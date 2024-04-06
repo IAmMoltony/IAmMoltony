@@ -1,4 +1,4 @@
-[iammoltony.github.io](website fr)
+[website fr](https://iammoltony.github.io)
 
 <details>
   <summary>Languages I know</summary>
