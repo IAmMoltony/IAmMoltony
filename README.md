@@ -18,6 +18,4 @@
   </ul>
 </details>
 
-![GitHub User's stars](https://img.shields.io/github/stars/IAmMoltony)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IAmMoltony)](https://git.io/streak-stats)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmMoltony&layout=pie)
