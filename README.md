@@ -18,4 +18,6 @@
   </ul>
 </details>
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmMoltony&layout=pie)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmMoltony&layout=pie&exclude_repo=NumberGoUp,BlueGuy)
+
+![wt stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAmMoltony\&layout=compact)
