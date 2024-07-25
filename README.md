@@ -11,7 +11,7 @@ im on vacation please dont bother me
 
 Socials: [Tumblr](https://tumblr.com/moltony) | [MyAnimeList](https://myanimelist.net/profile/Moltony)
 
-Gaming: [osu!](https://osu.ppy.sh/users/34607499) | [Lutris](https://lutris.net/user/moltony)
+Gaming: [osu!](https://osu.ppy.sh/users/34607499) | [Lutris](https://lutris.net/user/moltony) | [Geometry Dash (via GDBrowser)](https://gdbrowser.com/u/moltony)
 
 [![yip](https://iammoltony.github.io/cert/moltony_certified.jpg)](https://iammoltony.github.io)
 
