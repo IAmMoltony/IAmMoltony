@@ -14,5 +14,3 @@ Socials: [Tumblr](https://tumblr.com/moltony) | [MyAnimeList](https://myanimelis
 Gaming: [osu!](https://osu.ppy.sh/users/34607499) | [Lutris](https://lutris.net/user/moltony) | [Geometry Dash (via GDBrowser)](https://gdbrowser.com/u/moltony)
 
 [![yip](https://iammoltony.github.io/cert/moltony_certified.jpg)](https://iammoltony.github.io)
-
-![wt stats](https://github-readme-stats.vercel.app/api/wakatime?username=moltony\&layout=compact)
