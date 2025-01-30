@@ -7,4 +7,4 @@ im on vacation please dont bother me
 
 -->
 
-Laziest guy ever.
+I write software sometimes
