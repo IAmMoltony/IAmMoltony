@@ -7,4 +7,6 @@ im on vacation please dont bother me
 
 -->
 
-I write software sometimes
+* 🍛 curry udon consumer
+* 🫛 zundamon enjoyer
+* 😴 occasionally software writer
