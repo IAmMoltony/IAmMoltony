@@ -10,3 +10,5 @@ im on vacation please dont bother me
 * 🍛 curry udon consumer
 * 🫛 zundamon enjoyer
 * 😴 occasionally software writer
+
+check out [backup-chan](https://github.com/Backupchan) now
