@@ -11,4 +11,6 @@ im on vacation please dont bother me
 * 🫛 zundamon enjoyer
 * 😴 occasionally software writer
 
+currently practicing [rkgk](https://www.pixiv.net/en/users/118871128)
+
 check out [backup-chan](https://github.com/Backupchan) now
